@@ -13,7 +13,6 @@
 <img width="50" height="50" alt="icons8-javascript-50" src="https://github.com/user-attachments/assets/bbcc4de4-f25b-4ac9-b613-54e609a3d112" />
 <img width="50" height="50" alt="icons8-html-5-50" src="https://github.com/user-attachments/assets/ddf85f1d-7bc1-4c1a-9c37-70e43589153f" />
 <img width="50" height="50" alt="icons8-css3-50" src="https://github.com/user-attachments/assets/81b2d29f-bd7b-4a1a-843a-4b88c0e572c0" />
-<img width="50" height="50" alt="icons8-reagir-50" src="https://github.com/user-attachments/assets/e602578e-0f56-4c85-b3ea-b302065acd2f" />
 <img width="50" height="50" alt="icons8-bootstrap-50" src="https://github.com/user-attachments/assets/691c8dd9-d648-43e3-aa36-1f172bae2db7" />
 <img width="50" height="50" alt="icons8-tailwind-css-50" src="https://github.com/user-attachments/assets/4da029f4-86d9-439a-93f6-6866a204fa94" />
 <img width="50" height="50" alt="icons8-logo-mysql-50" src="https://github.com/user-attachments/assets/f552c6fa-3f15-4867-a7b0-e30afc331149" />
