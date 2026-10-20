@@ -33,11 +33,11 @@
 ```java
 public class LucasVinicius {
 
-    String role = "Software Engineer | Data Engineering | Systems Analyst";
+    String role = "Software Engineer";
 
     String education = "B.Sc. Information Systems";
 
-    String location = "Maceió, Alagoas, Brazil";
+    String location = "Osasco, São Paulo, Brazil";
 
     String[] languages = {
         "Java",
