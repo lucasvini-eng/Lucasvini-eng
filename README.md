@@ -21,7 +21,7 @@
 
 ### 🚀 Currently looking for
 
-- 💻 Junior Software Engineer opportunities
+- 💻 Software Engineer opportunities
 - ⚙️ Backend Development
 - 📊 Data Engineering
 - ☁️ Cloud & Data Solutions
