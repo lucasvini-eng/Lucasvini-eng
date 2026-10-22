@@ -48,8 +48,7 @@ public class LucasVinicius {
 
     String[] backend = {
         "Spring Boot",
-        "FastAPI",
-        "Django"
+        "FastAPI"
     };
 
     String[] data = {
@@ -58,8 +57,7 @@ public class LucasVinicius {
         "ETL",
         "Data Pipelines",
         "Data Warehouse",
-        "BigQuery",
-        "Apache Spark",
+        "BigQuery,
         "Power BI"
     };
 
@@ -90,7 +88,7 @@ public class LucasVinicius {
     };
 
     public String objective() {
-        return "Seeking opportunities as a Junior Software Engineer, "
+        return "Seeking opportunities as a Software Engineer,
              + "Backend Developer or Data Engineer, "
              + "where I can transform knowledge into scalable solutions "
              + "and continuously grow as a technology professional.";
